@@ -1,0 +1,6 @@
+//Bootstrap Carousel
+$('#carousel-main').carousel();
+
+$("contact us btn").click(function{$("myModal").modal({show:true})
+	
+})
